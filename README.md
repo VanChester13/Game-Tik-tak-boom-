@@ -2,12 +2,12 @@
 ## Тик-так-бум
 
 ### Авторы:
+* [Иван](https://github.com/VanChester13)
 
-* [Наталья (тимлид)](https://github.com/AlchyZaljer)
+* [Наталья](https://github.com/AlchyZaljer)
 
 * [Владимир](https://github.com/vnkgd)
 
-* [Иван](https://github.com/VanChester13)
 
 ### Описание:
 
