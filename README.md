@@ -1,4 +1,4 @@
-# Game-Tik-tak-boom-
+# Game-Tik-tak-boom
 ## Тик-так-бум
 
 ### Авторы:
